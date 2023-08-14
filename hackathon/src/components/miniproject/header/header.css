@@ -1,0 +1,13 @@
+input {
+  border: none;
+  outline: none;
+}
+
+input::placeholder {
+  color: #fff;
+}
+
+table,
+td {
+  border: 1px solid back;
+}
